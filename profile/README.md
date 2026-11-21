@@ -45,7 +45,7 @@ Designed and written up, code not yet published. MIT licence.
 The [community](https://github.com/AryabhattaLabs/community) repository is the public place for all three:
 
 - **Product feedback:** what's working or not in JoeHukum, NibbleIQ, RoleGPS or Favseen. [Open the form](https://github.com/AryabhattaLabs/community/issues/new?template=product-feedback.yml).
-- **Design reviews:** each tool listed above has a thread where the design is open to comment before the code is public. [Join one](https://github.com/AryabhattaLabs/community/discussions/categories/design-reviews).
+- **Design reviews:** the design of each tool listed above is open to comment before the code is public. [Go to Discussions](https://github.com/AryabhattaLabs/community/discussions).
 - **Ideas:** a feature, or a tool you wish existed. [Start a discussion](https://github.com/AryabhattaLabs/community/discussions/categories/ideas).
 - **Build with us:** you know a domain well and see a problem AI should handle better. [Tell us about it](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml).
 
