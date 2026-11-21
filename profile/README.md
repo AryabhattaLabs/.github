@@ -40,6 +40,15 @@ Designed and written up, code not yet published. MIT licence.
 | `pytest-frozen-allowlist` | Architecture rules for a codebase that already breaks them. Each rule is a source scan with an exception list that can only shrink: no new offenders, and a fixed file has to come off the list. |
 | `youtube-timestamped-rag` | A reference RAG app for YouTube videos, where every answer links to the exact second it came from. |
 
+## Ideas, feedback and building together
+
+The [community](https://github.com/AryabhattaLabs/community) repository is the public place for all three:
+
+- **Product feedback:** what's working or not in JoeHukum, NibbleIQ, RoleGPS or Favseen. [Open the form](https://github.com/AryabhattaLabs/community/issues/new?template=product-feedback.yml).
+- **Design reviews:** each tool listed above has a thread where the design is open to comment before the code is public. [Join one](https://github.com/AryabhattaLabs/community/discussions/categories/design-reviews).
+- **Ideas:** a feature, or a tool you wish existed. [Start a discussion](https://github.com/AryabhattaLabs/community/discussions/categories/ideas).
+- **Build with us:** you know a domain well and see a problem AI should handle better. [Tell us about it](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml).
+
 ## How we release
 
 - **Taken from real use.** Each tool starts as a piece of a product we run or have run. We publish it once it stands up outside that product.
