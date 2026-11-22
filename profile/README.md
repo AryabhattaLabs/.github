@@ -15,12 +15,12 @@ If you build with coding agents, LLM tool calls or MCP, the tools below are for 
 The rules you teach Claude Code, Codex, Cursor and Antigravity, kept in a private git repo you own and given to all of them, on every laptop.
 
 ```bash
-npm i -g https://github.com/AryabhattaLabs/taught-releases/releases/latest/download/taught.tgz
+npm i -g https://github.com/AryabhattaLabs/taught/releases/latest/download/taught.tgz
 ```
 
 Free beta · macOS · closed source · no account, no telemetry
 
-[Getting started](https://github.com/AryabhattaLabs/taught-releases/blob/main/GETTING-STARTED.md) · [FAQ](https://github.com/AryabhattaLabs/taught-releases/blob/main/FAQ.md) · [Feedback](https://github.com/AryabhattaLabs/taught-releases/issues/new/choose)
+[Getting started](https://github.com/AryabhattaLabs/taught/blob/main/GETTING-STARTED.md) · [FAQ](https://github.com/AryabhattaLabs/taught/blob/main/FAQ.md) · [Feedback](https://github.com/AryabhattaLabs/taught/issues/new/choose)
 
 ## Open source, releasing soon
 
