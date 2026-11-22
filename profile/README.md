@@ -22,13 +22,26 @@ Free beta · macOS · closed source · no account, no telemetry
 
 [Getting started](https://github.com/AryabhattaLabs/taught/blob/main/GETTING-STARTED.md) · [FAQ](https://github.com/AryabhattaLabs/taught/blob/main/FAQ.md) · [Feedback](https://github.com/AryabhattaLabs/taught/issues/new/choose)
 
+### agent-tool-result-reducer
+
+**Shrink large JSON tool results for LLM agents without silently losing data.**
+
+It fits a tool or API response into a size budget, keeps whole items, drops the widest fields before dropping items, and tells the model exactly what was left out.
+
+```bash
+pip install git+https://github.com/AryabhattaLabs/agent-tool-result-reducer
+```
+
+Open source · MIT · Python 3.10+ · no dependencies
+
+[Repository and quick start](https://github.com/AryabhattaLabs/agent-tool-result-reducer) · [Issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues)
+
 ## Open source, releasing soon
 
 Working code with tests, in final checks before the repos open. MIT licence.
 
 | Project | What it does | For |
 |---|---|---|
-| `agent-tool-result-reducer` | Shrinks large JSON tool results for LLM agents without silently losing data. It keeps whole items within a size budget and tells the model exactly what was left out. Python, no dependencies. | Anyone building an agent loop |
 | `mcp-rest-bridge` | Exposes an existing authenticated REST API to Claude, ChatGPT and other MCP clients as a remote, multi-tenant MCP server. Each call goes out with the caller's own key, so the bridge stores no credentials. Python, MCP SDK 2.x. | Teams adding an MCP connector to a product |
 
 ## Planned
