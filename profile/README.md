@@ -72,4 +72,4 @@ The [community](https://github.com/AryabhattaLabs/community) repository is the p
 
 ## Earlier work
 
-- [openai-elasticsearch-rag](https://github.com/ajeetsk/openai-elasticsearch-rag) (2024): question answering over long text with OpenAI and Elasticsearch as the vector store. `youtube-timestamped-rag` is its planned follow-up.
+- [openai-elasticsearch-rag](https://github.com/AryabhattaLabs/openai-elasticsearch-rag) (2024, MIT): question answering over long text with OpenAI and Elasticsearch as the vector store. A reference, not actively maintained. `youtube-timestamped-rag` is its planned follow-up.
