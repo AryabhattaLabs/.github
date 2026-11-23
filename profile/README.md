@@ -36,29 +36,12 @@ Open source · MIT · Python 3.10+ · no dependencies
 
 [Repository and quick start](https://github.com/AryabhattaLabs/agent-tool-result-reducer) · [PyPI](https://pypi.org/project/agent-tool-result-reducer/) · [Issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues)
 
-## Open source, releasing soon
-
-Working code with tests, in final checks before the repos open. MIT licence.
-
-| Project | What it does | For |
-|---|---|---|
-| `mcp-rest-bridge` | Exposes an existing authenticated REST API to Claude, ChatGPT and other MCP clients as a remote, multi-tenant MCP server. Each call goes out with the caller's own key, so the bridge stores no credentials. Python, MCP SDK 2.x. | Teams adding an MCP connector to a product |
-
-## Planned
-
-Designed and written up, code not yet published. MIT licence.
-
-| Project | What it will do |
-|---|---|
-| `pytest-frozen-allowlist` | Architecture rules for a codebase that already breaks them. Each rule is a source scan with an exception list that can only shrink: no new offenders, and a fixed file has to come off the list. |
-| `youtube-timestamped-rag` | A reference RAG app for YouTube videos, where every answer links to the exact second it came from. |
-
 ## Ideas, feedback and building together
 
 The [community](https://github.com/AryabhattaLabs/community) repository is the public place for all three:
 
 - **Product feedback:** what's working or not in JoeHukum, NibbleIQ, RoleGPS or Favseen. [Open the form](https://github.com/AryabhattaLabs/community/issues/new?template=product-feedback.yml).
-- **Design reviews:** the design of each tool listed above is open to comment before the code is public. [Go to Discussions](https://github.com/AryabhattaLabs/community/discussions).
+- **Design reviews:** questions about how a tool works, or should work, before you build on it. [Go to Discussions](https://github.com/AryabhattaLabs/community/discussions).
 - **Ideas:** a feature, or a tool you wish existed. [Start a discussion](https://github.com/AryabhattaLabs/community/discussions/categories/ideas).
 - **Build with us:** you know a domain well and see a problem AI should handle better. [Tell us about it](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml).
 
@@ -85,4 +68,4 @@ The [community](https://github.com/AryabhattaLabs/community) repository is the p
 
 ## Earlier work
 
-- [openai-elasticsearch-rag](https://github.com/AryabhattaLabs/openai-elasticsearch-rag) (MIT): question answering over long text with OpenAI and Elasticsearch as the vector store. A compact reference app from 2024, refreshed in November 2026 for Elasticsearch 9. `youtube-timestamped-rag` is its planned follow-up.
+- [openai-elasticsearch-rag](https://github.com/AryabhattaLabs/openai-elasticsearch-rag) (MIT): question answering over long text with OpenAI and Elasticsearch as the vector store. A compact reference app from 2024, refreshed in November 2026 for Elasticsearch 9.
