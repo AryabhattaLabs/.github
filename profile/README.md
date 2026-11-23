@@ -29,12 +29,12 @@ Free beta · macOS · closed source · no account, no telemetry
 It fits a tool or API response into a size budget, keeps whole items, drops the widest fields before dropping items, and tells the model exactly what was left out.
 
 ```bash
-pip install git+https://github.com/AryabhattaLabs/agent-tool-result-reducer
+pip install agent-tool-result-reducer
 ```
 
 Open source · MIT · Python 3.10+ · no dependencies
 
-[Repository and quick start](https://github.com/AryabhattaLabs/agent-tool-result-reducer) · [Issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues)
+[Repository and quick start](https://github.com/AryabhattaLabs/agent-tool-result-reducer) · [PyPI](https://pypi.org/project/agent-tool-result-reducer/) · [Issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues)
 
 ## Open source, releasing soon
 
